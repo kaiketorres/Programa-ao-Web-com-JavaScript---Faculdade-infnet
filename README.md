@@ -19,7 +19,7 @@ Cursando ⏳
   <li>JavaScript</li>
 </ul>
 
-# &#10004; Exercícios terminados
+# &#10004; Exercícios terminado
 
 / <a href="https://kaiketorres.github.io/">EX001</a> /
 
