@@ -51,13 +51,13 @@
 
         var anoAtual = new Date().getFullYear();
 
-        var anoContratação = window.prompt('Em qual ano voce foi contratado')
+        var anoContratação = window.prompt('Em qual ano voce foi contratado?')
 
         var salarioBruto = Number(window.prompt('Digite seu salário'))
 
         var gratificação = Number(window.prompt('Digite o valor da sua gratificação'))
 
-        var desconto = 80
+        const desconto = 80
 
         var salarioLiquido  =  (salarioBruto + gratificação - desconto) * 0.0042 + (anoAtual - anoContratação) * 150
 
