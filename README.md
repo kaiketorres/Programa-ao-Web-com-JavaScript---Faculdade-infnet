@@ -22,6 +22,8 @@ Cursando ⏳
 # &#10004; Exercícios terminados
 
 / <a href="https://kaiketorres.github.io/Programa-ao-Web-com-JavaScript---Faculdade-infnet/Etapa_01/Etapa_01.html">Etapa_001</a> 
+/
+<a href="https://kaiketorres.github.io/Programa-ao-Web-com-JavaScript-Faculdade-infnet/Etapa_02/Etapa_02.html">Etapa_002</a>
 
 
 # &#X263A; Link
