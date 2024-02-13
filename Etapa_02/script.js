@@ -6,7 +6,7 @@ function apresenta(){
 
     const idade = new Date().getFullYear() - ano
 
-    let mensagem = (`Sou ${nome} e tenho ${idade} anos`)
+    let mensagem = (`Sou ${nome} e tem ${idade} anos`)
     
     document.getElementById("apresentacao").value = mensagem
 
