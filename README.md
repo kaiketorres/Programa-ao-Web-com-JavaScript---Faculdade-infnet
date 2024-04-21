@@ -21,9 +21,9 @@ Cursando ⏳
 
 # &#10004; Exercícios terminados
 
-/ <a href="https://kaiketorres.github.io/Programacao-Web-com-JavaScript-Faculdade-infnet/Etapa_01/Etapa_01.html">Etapa_001</a> 
+/ <a href="https://kaiketorres.github.io/Programacao-Web-com-JavaScript-Faculdade-infnet/TP1%20-%20Programa%C3%A7%C3%A3o%20Web%20com%20JavaScript%201/1%20-%20Primeiro-programa-em-JavaS.html">TP1_EX01</a> 
 /
-<a href="https://kaiketorres.github.io/Programacao-Web-com-JavaScript-Faculdade-infnet/Etapa_02/Etapa_02.html">Etapa_002</a>
+<a href="https://kaiketorres.github.io/Programacao-Web-com-JavaScript-Faculdade-infnet/TP1%20-%20Programa%C3%A7%C3%A3o%20Web%20com%20JavaScript%201/2%20-%20Utilizando-console.html">TP1_EX02</a>
 
 
 # &#X263A; Link
